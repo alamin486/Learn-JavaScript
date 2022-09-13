@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-image: url("https://t3.ftcdn.net/jpg/03/22/48/50/360_F_322485076_wuZ8D5R9biTRNSGJMWZBor9uUcO1Md59.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight:bold;
+}
+h1{
+    color:yellow;
+    
+}
+p{
+    color:white;
+}
+button{
+    background-color: yellow;
+    color:green;
+    padding:5px;
+    border-radius:5px;
+    font-weight:bold;
+    height:50px;
+    width:150px;
+}
