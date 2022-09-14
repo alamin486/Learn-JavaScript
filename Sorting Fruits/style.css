@@ -1,0 +1,18 @@
+body {
+    padding: 40px;
+    background: rgb(203, 155, 155);
+    text-align: center;
+}
+
+#apple-shelf {
+    background: rgb(147, 240, 128);
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#orange-shelf {
+    background: rgb(62, 59, 58);
+    border-radius: 10px;
+    height: 30px;
+}
