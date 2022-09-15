@@ -1,0 +1,12 @@
+Syntax
+window.localStorage
+or just:
+localStorage
+Save Data to Local Storage
+localStorage.setItem(key, value);
+Read Data from Local Storage
+let lastname = localStorage.getItem(key);
+Remove Data from Local Storage
+localStorage.removeItem(key);
+Remove All (Clear Local Storage)
+localStorage.clear();

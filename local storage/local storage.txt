@@ -1,0 +1,4 @@
+localStorage.setIteam("myName","Alamin hossain")
+let name=localStorage.getIteam("myName")
+console.log(name)
+localStorage.clear()
