@@ -1,5 +1,4 @@
-
-function add(num1,num2){
-  return num1+num2
+function myFunc(){
+    console.log(arguments)
 }
-console.log(add(12,13))//arguments
+myFunc(5,6,7,8,9,10)
